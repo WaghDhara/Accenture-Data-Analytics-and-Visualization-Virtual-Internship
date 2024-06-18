@@ -11,7 +11,7 @@ About Client : Social Buzz
 Task for Accenture :
 Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
 Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
-Accenture Project Team :![image](https://github.com/WaghDhara/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/assets/150533325/4e2bf56a-9c1b-46c3-b1be-04e023794a54)
+Accenture Project Team :![image]([https://github.com/WaghDhara/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/](https://github.com/WaghDhara/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Internal%20stakeholder%20chart.jpg)
 Task for Data Analyst :
 Analysis of sample data sets with visualizations to understand the popularity of different content categories.
 
