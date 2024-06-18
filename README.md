@@ -12,9 +12,8 @@ Task for Accenture :
 Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
 Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
 Accenture Project Team :
-![screenshot](Internal stakeholder chart.jpg)
+![Internal stakeholder chart](https://github.com/WaghDhara/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/assets/150533325/8653e3b5-0adc-4071-9b34-bdbb56571d0d)
 
-![image]([https://github.com/WaghDhara/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/](https://github.com/WaghDhara/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Internal%20stakeholder%20chart.jpg)
 Task for Data Analyst :
 Analysis of sample data sets with visualizations to understand the popularity of different content categories.
 
